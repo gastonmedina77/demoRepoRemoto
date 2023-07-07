@@ -1,15 +1,15 @@
 ## Sistema para el Bar de Pedro - Grupo C
 ![Design preview ](./src/img/bar.png)
 
-### Guia de instalación
+### Desarrollo del TPI 
 
-- Descargar repositorio completo
-- Abrir con un editor de codigos fuente (De preferencia Visual Studio Code)
-- Ejecutar los siguiente comandos:
-    - npm i
-    - npm i sass
-    - npm run dev
-- Colocar la direccion que brinda la consola en un navegador web.
+Cátedra: Desarrollo de Software - UTN FRRe
+
+El desarrollo fue dividido en dos partes: backend y frontend.
+Todo el desarrollo de cada una de las partes se encuentra subido a su respectiva carpeta:
+- En la carpeta backend encontrará todo el desarrollo del backend
+- En la carpeta frontend encontrará todo el desarrollo del frontend
+
 
 
 ### Built with
